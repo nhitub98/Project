@@ -1,0 +1,3 @@
+INSERT INTO productmanagement.transport_method (ID, NAME, NOTES, CREATED_DATE, UPDATED_DATE, isactive) VALUES (1, 'Vận chuyển bằng đường biển', 'Dịch vụ vận chuyển bằng đường biển', '2024-05-14 14:00:41', '2024-05-14 14:00:41', 1);
+INSERT INTO productmanagement.transport_method (ID, NAME, NOTES, CREATED_DATE, UPDATED_DATE, isactive) VALUES (2, 'Vận chuyển bằng đường hàng không', 'Dịch vụ vận chuyển bằng đường hàng không', '2024-05-14 14:00:41', '2024-05-14 14:00:41', 1);
+INSERT INTO productmanagement.transport_method (ID, NAME, NOTES, CREATED_DATE, UPDATED_DATE, isactive) VALUES (3, 'Vận chuyển bằng đường đường bộ', 'Dịch vụ vận chuyển bằng đường đường bộ', '2024-05-14 14:00:41', '2024-05-14 14:00:41', 1);

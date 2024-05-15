@@ -1,0 +1,3 @@
+INSERT INTO productmanagement.payment_method (ID, NAME, NOTES, CREATED_DATE, UPDATED_DATE, isactive) VALUES (1, 'Thẻ tín dụng', 'Thanh toán qua thẻ tín dụng', '2024-05-14 13:59:32', '2024-05-15 00:10:45', 1);
+INSERT INTO productmanagement.payment_method (ID, NAME, NOTES, CREATED_DATE, UPDATED_DATE, isactive) VALUES (2, 'PayPal', 'Thanh toán qua PayPal', '2024-05-14 13:59:32', '2024-05-14 13:59:32', 1);
+INSERT INTO productmanagement.payment_method (ID, NAME, NOTES, CREATED_DATE, UPDATED_DATE, isactive) VALUES (3, 'Chuyển khoản ngân hàng', 'Thanh toán qua chuyển khoản ngân hàng', '2024-05-14 13:59:32', '2024-05-15 00:10:51', 1);

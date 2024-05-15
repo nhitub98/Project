@@ -1,0 +1,3 @@
+INSERT INTO productmanagement.orders (ID, idorders, ORDERS_DATE, IDCUSTOMER, TOTAL_MONEY, NOTES, NAME_RECIVER, ADDRESS, PHONE, status) VALUES (1, 1, '2024-05-14 14:10:12', 1, 1500000, null, 'Hiền', 'Quảng Ninh', '0396312298', 1);
+INSERT INTO productmanagement.orders (ID, idorders, ORDERS_DATE, IDCUSTOMER, TOTAL_MONEY, NOTES, NAME_RECIVER, ADDRESS, PHONE, status) VALUES (2, 2, '2024-05-14 14:01:52', 2, 2500000, null, 'Quang', 'Hà Nội', '0396312295', 2);
+INSERT INTO productmanagement.orders (ID, idorders, ORDERS_DATE, IDCUSTOMER, TOTAL_MONEY, NOTES, NAME_RECIVER, ADDRESS, PHONE, status) VALUES (3, 3, '2024-05-14 14:01:52', 3, 2000000, null, 'Hường', 'Quảng Bình', '0396312298', 3);
